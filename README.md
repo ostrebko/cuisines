@@ -21,4 +21,4 @@
 
 Data_Cuisines.ipynb - основной ноутбук для обработки данных.  
 Parsing_Data_from_TA.ipynb - дополнительный ноутбук, создан для парсинга доп. данных с сайта.  
-Дополнительные данные при расчетах взяты из Demographia World Urban Areas 15 th Annual Edition: 201904. Сейчас доступен Demographia World Urban Areas 16 th Annual Edition: 202006
+Дополнительные данные при расчетах взяты из Demographia World Urban Areas 15 th Annual Edition: 201904. Сейчас доступен Demographia World Urban Areas 16 th Annual Edition: 202006 на сайте http://www.demographia.com/db-worldua.pdf
